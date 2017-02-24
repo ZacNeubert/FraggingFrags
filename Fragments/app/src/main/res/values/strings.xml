@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="titles">
+        <item>Apples:apple</item>
+        <item>Oranges:orange</item>
+        <item>Grapes:grapes</item>
+        <item>Pears:pear</item>
+        <item>Mangos:mango</item>
+        <item>Watermelon:watermelon</item>
+    </array>
+</resources>
